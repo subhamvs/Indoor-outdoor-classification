@@ -15,6 +15,6 @@ Code tested in Python 2.7 version.
 
 How to run the code:
 
-python Train_PCA_kmeans.py <Train folder with png images> <Test folder with png images>
+python Train_PCA_kmeans.py [Train folder with png images] [Test folder with png images]
   
 IPCA model and Kmeans Model will be dumped at the final stage of execution. 
