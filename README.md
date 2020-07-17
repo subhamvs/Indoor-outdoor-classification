@@ -5,7 +5,6 @@ Used IPCA                             ==> To extract features from the images
 
 Used Kmeans mini batch clustering     ==> To cluster the extracted features
 
-Requirements:
 Following python packages are required to run the setup,
 1) numpy
 2) opencv-python
